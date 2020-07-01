@@ -4,5 +4,5 @@
 
 class Mult_Choice_Question:
 
-    def __init__(self):
-        pass
+    def __init__(self, question):
+        self.question = question
